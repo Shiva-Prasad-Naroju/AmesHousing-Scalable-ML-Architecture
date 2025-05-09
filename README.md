@@ -1,4 +1,4 @@
-# 🏡 AmesHousing Sale Price Prediction
+🏡 AmesHousing Sale Price Prediction
 
 ## **📌 Project Overview**
 

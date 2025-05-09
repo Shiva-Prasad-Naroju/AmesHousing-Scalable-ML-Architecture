@@ -18,7 +18,7 @@ To maintain a clean and modular code structure, multiple **design patterns** wer
   
 - Helps in maintaining a **clear separation of concerns** by defining methods that must be implemented in child classes.
 
-💡 **How It Helped?**
+## 💡 **How It Helped?**
 
 - Allowed easy extension of functionalities without modifying existing code.
   

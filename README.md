@@ -30,7 +30,7 @@ To maintain a clean and modular code structure, multiple **design patterns** wer
 
 The project is well-structured, separating concerns into dedicated folders. A key directory is:
 
-### **📁 `explanations/`**
+### 📁 `explanations/`
 
 This folder contains documentation and examples of different **design patterns** used, such as:
 
@@ -40,7 +40,7 @@ This folder contains documentation and examples of different **design patterns**
   
 - **Template Design Pattern** 📑
 
-### **💡 Reusability & Professional Implementation ✨🔄💻**
+## **💡 Reusability & Professional Implementation ✨🔄💻**
 
 Since this project is built entirely using Abstract Method Patterns 🏗️, the implemented methods can be reused 🔄 in other projects as a reference 📖. 
 
